@@ -1,0 +1,15 @@
+.main-div{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(216, 224, 222);
+    width: 100%;
+}
+.ul-div{
+    display: flex;
+    list-style: none;
+}
+.ul-div>li{
+    padding: 5px;
+}
